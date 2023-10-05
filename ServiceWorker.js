@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-AR_-0.1";
 const contentToCache = [
-    "Build/webar3.loader.js",
-    "Build/webar3.framework.js",
-    "Build/webar3.data",
-    "Build/webar3.wasm",
+    "Build/DHAR.loader.js",
+    "Build/DHAR.framework.js",
+    "Build/DHAR.data",
+    "Build/DHAR.wasm",
     "TemplateData/style.css"
 
 ];
